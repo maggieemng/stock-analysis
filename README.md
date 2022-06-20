@@ -9,6 +9,9 @@ We started off with the given data of 2017 and 2018 stock performance. However, 
 
 Below are the daily total volume and return for the stocks in 2017 and 2018
 
+<img width="227" alt="Screen Shot 2022-06-20 at 11 53 45 AM" src="https://user-images.githubusercontent.com/100388238/174640119-fadfa789-c578-48be-b133-37e8fb7a5951.png">
+<img width="228" alt="Screen Shot 2022-06-20 at 11 55 22 AM" src="https://user-images.githubusercontent.com/100388238/174640144-07c3c269-4ca1-41ea-83c2-655844130be1.png">
+
 
 We see that in 2017 the stocks did much better than in 2018. In 2017, only one stock "TERP" had a negative return (which means it lost money), while every other stock more or less had a positive return. However in 2018, only two stocks "ENPH" and "RUN" had positive returns. I think that because we only calculated the returns over two years, it is not easy to find any trends when looking at stock performance. Which is why the refactor code in VBA should be helpful when Steve acquires data from more years. 
 
